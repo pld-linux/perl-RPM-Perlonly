@@ -22,14 +22,14 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
 Perl-RPM-Perlonly is a clone of RPM::Header written in only Perl, so
-it provides a way to read a rpm package on systems where rpm is not
+it provides a way to read a RPM package on systems where RPM is not
 installed. Perl-RPM-Perlonly can used as a drop in replacement for
 RPM::Header, if needed also the other way round.
 
 %description -l pl
 Modu³ RPM-Perlonly to klon RPM::Header napisany w samym Perlu, przez
-co pozwala odczytywaæ pakiety rpm na systemach bez zainstalowanego
-rpm-a. RPM-Perlonly mo¿e byæ w razie potrzeby u¿ywany jako zamiennik
+co pozwala odczytywaæ pakiety RPM na systemach bez zainstalowanego
+RPM-a. RPM-Perlonly mo¿e byæ w razie potrzeby u¿ywany jako zamiennik
 RPM::Header.
 
 %prep
