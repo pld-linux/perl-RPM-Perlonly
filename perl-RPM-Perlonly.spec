@@ -1,14 +1,15 @@
 #
 # Conditional build:
 # _without_tests - do not perform "make test"
+#
 %include	/usr/lib/rpm/macros.perl
 %define	pdir	RPM
 %define	pnam	Perlonly
 Summary:	RPM::Perlonly - a Perl only implementaion of a RPM header reader
 Summary(pl):	RPM::Perlonly - czysto perlowa implementacja czytnika nag³ówków RPM
 Name:		perl-RPM-Perlonly
-Version:	1.0
-Release:	2
+Version:	1.0.1
+Release:	1
 License:	LGPL
 Group:		Development/Languages/Perl
 Source0:	ftp://ftp.cpan.org/pub/CPAN/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
