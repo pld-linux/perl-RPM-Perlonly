@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	RPM
-%define	pnam	Perlonly
+%define		pdir	RPM
+%define		pnam	Perlonly
 Summary:	RPM::Perlonly - a Perl only implementaion of a RPM header reader
 Summary(pl):	RPM::Perlonly - czysto perlowa implementacja czytnika nag³ówków RPM
 Name:		perl-RPM-Perlonly
