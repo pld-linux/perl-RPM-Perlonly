@@ -9,7 +9,7 @@ Summary:	RPM::Perlonly - a Perl only implementaion of a RPM header reader
 Summary(pl):	RPM::Perlonly - czysto perlowa implementacja czytnika nag³ówków RPM
 Name:		perl-RPM-Perlonly
 Version:	1.0.1
-Release:	1
+Release:	2
 License:	LGPL
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
