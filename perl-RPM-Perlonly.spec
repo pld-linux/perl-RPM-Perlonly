@@ -10,7 +10,7 @@ Summary(pl):	RPM::Perlonly - czysto perlowa implementacja czytnika nag³ówków RPM
 Name:		perl-RPM-Perlonly
 Version:	1.0.1
 Release:	2
-# sae as perl or LGPL
+# same as perl or LGPL
 License:	LGPL or GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
