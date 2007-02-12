@@ -6,7 +6,7 @@
 %define		pdir	RPM
 %define		pnam	Perlonly
 Summary:	RPM::Perlonly - a Perl only implementaion of a RPM header reader
-Summary(pl):	RPM::Perlonly - czysto perlowa implementacja czytnika nag³ówków RPM
+Summary(pl.UTF-8):   RPM::Perlonly - czysto perlowa implementacja czytnika nagÅ‚Ã³wkÃ³w RPM
 Name:		perl-RPM-Perlonly
 Version:	1.0.1
 Release:	3
@@ -26,10 +26,10 @@ it provides a way to read a RPM package on systems where RPM is not
 installed. Perl-RPM-Perlonly can used as a drop in replacement for
 RPM::Header, if needed also the other way round.
 
-%description -l pl
-Modu³ RPM-Perlonly to klon RPM::Header napisany w samym Perlu, przez
-co pozwala odczytywaæ pakiety RPM na systemach bez zainstalowanego
-RPM-a. RPM-Perlonly mo¿e byæ w razie potrzeby u¿ywany jako zamiennik
+%description -l pl.UTF-8
+ModuÅ‚ RPM-Perlonly to klon RPM::Header napisany w samym Perlu, przez
+co pozwala odczytywaÄ‡ pakiety RPM na systemach bez zainstalowanego
+RPM-a. RPM-Perlonly moÅ¼e byÄ‡ w razie potrzeby uÅ¼ywany jako zamiennik
 RPM::Header.
 
 %prep
