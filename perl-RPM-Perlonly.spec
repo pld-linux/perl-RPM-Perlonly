@@ -6,7 +6,7 @@
 %define		pdir	RPM
 %define		pnam	Perlonly
 Summary:	RPM::Perlonly - a Perl only implementaion of a RPM header reader
-Summary(pl.UTF-8):   RPM::Perlonly - czysto perlowa implementacja czytnika nagłówków RPM
+Summary(pl.UTF-8):	RPM::Perlonly - czysto perlowa implementacja czytnika nagłówków RPM
 Name:		perl-RPM-Perlonly
 Version:	1.0.1
 Release:	3
